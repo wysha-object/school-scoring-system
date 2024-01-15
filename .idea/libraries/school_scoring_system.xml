@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="school-scoring-system">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/school_scoring_system_jar/school-scoring-system.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
