@@ -29,10 +29,12 @@ public class ClassView extends JPanel {
         if (grade != null) {
             list.setListData(grade.getSchoolClasses());
             delete.setEnabled(true);
+            show.setEnabled(true);
             edit.setEnabled(true);
         } else {
             list.setListData(new SchoolClass[0]);
             delete.setEnabled(false);
+            show.setEnabled(false);
             edit.setEnabled(false);
         }
     }
