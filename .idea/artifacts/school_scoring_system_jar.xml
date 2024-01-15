@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="school-scoring-system:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/school_scoring_system_jar</output-path>
-    <root id="archive" name="school-scoring-system.jar">
-      <element id="module-output" name="school-scoring-system" />
-    </root>
-  </artifact>
-</component>
