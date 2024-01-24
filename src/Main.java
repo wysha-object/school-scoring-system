@@ -1,4 +1,4 @@
-import main.MainInterface;
+import wysha.school_scoring_system.main.MainInterface;
 
 /**
  * @author wysha
